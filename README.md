@@ -13,6 +13,10 @@ YOUR_IP_ADDRESS:8000/admin
 ```
 
 ## Getting Started
+
+Prerequisite
+- Host that docker installed.
+
 1. Clone the repository
 ```bash
 git clone https://github.com/sandyxd18/Django-Web-Portfolio.git
